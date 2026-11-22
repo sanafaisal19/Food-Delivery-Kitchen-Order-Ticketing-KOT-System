@@ -1,42 +1,41 @@
-#Food Delivery & Kitchen Order Ticketing System (KOT)
+# Food Delivery & Kitchen Order Ticketing System (KOT)
 
-Project Overview
+C++ Object-Oriented Programming (OOP) Semester Project designed to organize restaurant operations, customer orders, kitchen processing, delivery management, and customer feedback[cite: 1].
 
-The Food Delivery & Kitchen Order Ticketing System is a C++ based Object-Oriented Programming semester project designed to organize restaurant operations, customer orders, kitchen processing, delivery management, and customer feedback.
+## Project Objectives
 
-Project Objectives
+* Simplify restaurant and menu management[cite: 1].
+* Manage order placement and customization[cite: 1].
+* Organize kitchen order processing through KOT[cite: 1].
+* Allocate delivery partners efficiently[cite: 1].
+* Manage customer reviews and basic analytics[cite: 1].
 
-- Simplify restaurant and menu management.
-- Manage order placement and customization.
-- Organize kitchen order processing through KOT.
-- Allocate delivery partners efficiently.
-- Manage customer reviews and basic analytics.
+## Project Modules & Team Responsibilities
 
-Project Modules & Team Responsibilities
+| Team Member | Role | Assigned Module |
+| :--- | :--- | :--- |
+| Sana | Team Lead | Restaurant & Menu Management[cite: 1] |
+| Talha | Member | Order Placement & Customization[cite: 1] |
+| Saad | Member | Kitchen Display System & KOT[cite: 1] |
+| Zain | Member | Delivery Partner Allocation[cite: 1] |
+| Nisha | Member | Review & Analytics Engine[cite: 1] |
 
-Team Member| Assigned Module
-Sana (Team Lead)| Restaurant & Menu Management
-Talha| Order Placement & Customization
-Saad| Kitchen Display System & KOT
-Zain| Delivery Partner Allocation
-Nisha| Review & Analytics Engine
+## Technologies Used
 
-Technologies Used
+* C++[cite: 1]
+* Visual Studio Code[cite: 1]
+* Git[cite: 1]
+* GitHub[cite: 1]
 
-- C++
-- Visual Studio Code
-- Git
-- GitHub
+## Team Collaboration
 
-Team Collaboration
+The project is maintained in a shared GitHub repository[cite: 1]. Each member works independently on an assigned module through a separate branch[cite: 1]. Contributions are committed, pushed, and submitted through Pull Requests for review and merging into the main branch[cite: 1].
 
-The project is maintained in a shared GitHub repository. Each member works independently on an assigned module through a separate branch. Contributions are committed, pushed, and submitted through Pull Requests for review and merging into the main branch.
+## Project Status
 
-Project Status
+Milestone 1 – Project Planning, Class Design & Initial Implementation[cite: 2].
 
-Milestone 1 – Project Planning, Class Design & Initial Implementation.
+## Academic Information
 
-Academic Information
-
-Course: Object-Oriented Programming (OOP)
-Project Type: Semester Project
+* **Course:** Object-Oriented Programming (OOP)[cite: 2]
+* **Project Type:** Semester Project[cite: 2]
