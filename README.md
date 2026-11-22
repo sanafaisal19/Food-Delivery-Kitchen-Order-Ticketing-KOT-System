@@ -1,6 +1,6 @@
 # Food Delivery & Kitchen Order Ticketing System (KOT)
 
-C++ Object-Oriented Programming (OOP) Semester Project designed to organize restaurant operations, customer orders, kitchen processing, delivery management, and customer feedback.
+C++ Object-Oriented Programming (OOP) 3rd Semester Project designed to organize restaurant operations, customer orders, kitchen processing, delivery management, and customer feedback.
 
 ## Project Objectives
 
