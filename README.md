@@ -4,11 +4,11 @@ C++ Object-Oriented Programming (OOP) 3rd Semester Project designed to organize 
 
 ## Project Objectives
 
-* Simplify restaurant and menu management.
-* Manage order placement and customization.
-* Organize kitchen order processing through KOT.
-* Allocate delivery partners efficiently.
-* Manage customer reviews and basic analytics.
+* Simplify restaurant and menu management
+* Manage order placement and customization
+* Organize kitchen order processing through KOT
+* Allocate delivery partners efficiently
+* Manage customer reviews and basic analytics
 
 ## Project Modules & Team Responsibilities
 
