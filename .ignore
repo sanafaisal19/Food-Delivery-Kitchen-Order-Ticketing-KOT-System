@@ -1,0 +1,54 @@
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.lib
+*.dll
+*.so
+
+# Debug files
+*.pdb
+*.ilk
+*.dSYM/
+
+# Build folders
+build/
+bin/
+Debug/
+Release/
+cmake-build-*/
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.suo
+
+# VS Code
+.vscode/
+
+# Code::Blocks
+*.depend
+*.layout
+bin/
+obj/
+
+# CLion
+.idea/
+cmake-build-debug/
+cmake-build-release/
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+*.swp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
